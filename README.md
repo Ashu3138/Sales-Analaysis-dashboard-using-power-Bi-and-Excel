@@ -30,7 +30,7 @@ This project presents an interactive E-Commerce Sales Dashboard built using Powe
 - **Interactive map visualization**  
 - **Shipping mode performance analysis**  
 - Dynamic slicers and **drill-down functionality**
-- ![Uploading Screenshot 2026-01-12 185032.png…]()
+
 
 
 ---
